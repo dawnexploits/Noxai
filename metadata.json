@@ -1,0 +1,5 @@
+{
+  "name": "Nox Coder AI",
+  "description": "An AI-powered application for developers to generate code snippets in various languages and engage in a full conversation with a coding assistant. Features a tiered system with generation limits and a puzzle to earn more.",
+  "requestFramePermissions": []
+}
